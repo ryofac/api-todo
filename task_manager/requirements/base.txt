@@ -1,5 +1,12 @@
+gunicorn==22.0.0  
+uvicorn==0.30.5 
+
 # Django
 Django==5.0.8
+django-environ==0.11.2 
+
+# Static File Service:
+whitenoise[brotli]==6.7.0
 
 # DRF
 djangorestframework==3.15.2 
