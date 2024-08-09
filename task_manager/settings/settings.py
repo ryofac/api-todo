@@ -53,7 +53,6 @@ SPECTACULAR_SETTINGS = {
     "DESCRIPTION": "api simples que fornece uma estrutura de tasks",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": False,
-    "SERVERS": [""],
     # OTHER SETTINGS
 }
 
